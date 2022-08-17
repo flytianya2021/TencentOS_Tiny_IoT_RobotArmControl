@@ -1,0 +1,11 @@
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTDeserializePublish.c
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\StackTrace.h
+.\obj\mqttdeserializepublish.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTConnect.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPublish.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTSubscribe.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTUnsubscribe.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTFormat.h
+.\obj\mqttdeserializepublish.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttdeserializepublish.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\string.h

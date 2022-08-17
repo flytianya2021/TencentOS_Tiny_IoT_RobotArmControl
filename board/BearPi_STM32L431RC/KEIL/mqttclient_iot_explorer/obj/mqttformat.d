@@ -1,0 +1,11 @@
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTFormat.c
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\StackTrace.h
+.\obj\mqttformat.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTConnect.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPublish.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTSubscribe.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTUnsubscribe.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTFormat.h
+.\obj\mqttformat.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttformat.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\string.h

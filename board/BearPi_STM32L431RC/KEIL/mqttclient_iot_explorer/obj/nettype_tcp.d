@@ -1,0 +1,11 @@
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\network\nettype_tcp.c
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\network\nettype_tcp.h
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\platform\TencentOS-tiny\platform_net_socket.h
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\network\network.h
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\mqttclient\mqtt_defconfig.h
+.\obj\nettype_tcp.o: ..\..\TOS-CONFIG\mqtt_config.h
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\common\mqtt_error.h
+.\obj\nettype_tcp.o: ..\..\..\..\net\sal_module_wrapper\sal_module_wrapper.h
+.\obj\nettype_tcp.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\nettype_tcp.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\nettype_tcp.o: ..\..\..\..\components\connectivity\mqttclient\common\mqtt_log.h

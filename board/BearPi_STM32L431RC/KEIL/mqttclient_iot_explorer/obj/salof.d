@@ -1,0 +1,9 @@
+.\obj\salof.o: ..\..\..\..\components\connectivity\mqttclient\common\log\salof.c
+.\obj\salof.o: ..\..\..\..\components\connectivity\mqttclient\common\log\salof.h
+.\obj\salof.o: ..\..\..\..\components\connectivity\mqttclient\common\log\salof_defconfig.h
+.\obj\salof.o: ..\..\..\..\components\connectivity\mqttclient\common\log\salof_config.h
+.\obj\salof.o: ..\..\TOS-CONFIG\mqtt_config.h
+.\obj\salof.o: ..\..\..\..\components\connectivity\mqttclient\common\log\format.h
+.\obj\salof.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+.\obj\salof.o: ..\..\..\..\components\connectivity\mqttclient\common\log\fifo.h
+.\obj\salof.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,9 @@
+.\obj\platform_net_socket.o: ..\..\..\..\components\connectivity\mqttclient\platform\TencentOS-tiny\platform_net_socket.c
+.\obj\platform_net_socket.o: ..\..\..\..\components\connectivity\mqttclient\platform\TencentOS-tiny\platform_net_socket.h
+.\obj\platform_net_socket.o: ..\..\..\..\components\connectivity\mqttclient\network\network.h
+.\obj\platform_net_socket.o: ..\..\..\..\components\connectivity\mqttclient\mqttclient\mqtt_defconfig.h
+.\obj\platform_net_socket.o: ..\..\TOS-CONFIG\mqtt_config.h
+.\obj\platform_net_socket.o: ..\..\..\..\components\connectivity\mqttclient\common\mqtt_error.h
+.\obj\platform_net_socket.o: ..\..\..\..\net\sal_module_wrapper\sal_module_wrapper.h
+.\obj\platform_net_socket.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\platform_net_socket.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h

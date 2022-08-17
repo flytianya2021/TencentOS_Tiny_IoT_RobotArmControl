@@ -1,0 +1,11 @@
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.c
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\StackTrace.h
+.\obj\mqttpacket.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTConnect.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPublish.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTSubscribe.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTUnsubscribe.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTFormat.h
+.\obj\mqttpacket.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttpacket.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\string.h

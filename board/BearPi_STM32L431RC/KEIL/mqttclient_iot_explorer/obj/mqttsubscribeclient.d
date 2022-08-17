@@ -1,0 +1,11 @@
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTSubscribeClient.c
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTConnect.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPublish.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTSubscribe.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTUnsubscribe.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTFormat.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\StackTrace.h
+.\obj\mqttsubscribeclient.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\mqttsubscribeclient.o: ..\..\..\..\components\connectivity\mqttclient\mqtt\MQTTPacket.h
+.\obj\mqttsubscribeclient.o: D:\1SoftInstallPath\keil\ARM\ARMCC\Bin\..\include\string.h
